@@ -1,0 +1,1 @@
+<?php//speed up gravatarfunction mytheme_get_avatar($avatar) {$avatar = str_replace(array("www.gravatar.com","0.gravatar.com","1.gravatar.com","2.gravatar.com"),"duoshuo-gravatar.qiniudn.com",$avatar);return $avatar;}?>

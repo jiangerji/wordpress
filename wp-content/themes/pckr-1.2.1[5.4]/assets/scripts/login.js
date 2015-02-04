@@ -1,0 +1,1 @@
+jQuery(document).ready(function(B){var A=B(window).height(),D=B("#footer").height(),C=B("#content").height();if(C<A-D-143){B("#content").height(A-D-143);B("#goback").hide()}});
